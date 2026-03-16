@@ -2,7 +2,7 @@
 
 A complete, deployable EKS Auto Mode cluster using Terraform. Demonstrates the key features of Auto Mode: managed compute with Karpenter, automatic node scaling, managed storage and load balancing, Container Insights observability, security hardening, and cost optimization with Spot NodePools.
 
-Companion blog post: [EKS Auto Mode with Terraform: Production-Ready Setup Guide](https://darryl-ruggles.cloud)
+Companion blog post: [EKS Auto Mode with Terraform: Production-Ready Setup Guide](https://darryl-ruggles.cloud/a-complete-terraform-setup-for-eks-auto-mode-is-it-right-for-you)
 
 ## What is EKS Auto Mode?
 
