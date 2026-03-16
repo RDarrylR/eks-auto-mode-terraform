@@ -1,0 +1,8 @@
+# Copy this file to terraform.tfvars and customize as needed.
+# All values below are the defaults - only override what you want to change.
+
+# aws_region      = "us-east-1"
+# project_name    = "eks-auto-mode-demo"
+# environment     = "dev"
+# cluster_version = "1.35"
+# vpc_cidr        = "10.0.0.0/16"
