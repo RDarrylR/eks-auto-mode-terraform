@@ -278,7 +278,7 @@ This demo uses simplified defaults for clarity. For production deployments:
 - [Under the Hood: Amazon EKS Auto Mode](https://aws.amazon.com/blogs/containers/under-the-hood-amazon-eks-auto-mode/)
 - [terraform-aws-modules/eks Auto Mode Example](https://registry.terraform.io/modules/terraform-aws-modules/eks/aws/latest/examples/eks-auto-mode)
 - [EKS Auto Mode Release Notes](https://docs.aws.amazon.com/eks/latest/userguide/auto-change.html)
-- [Blog Post](https://darryl-ruggles.cloud)
+- [Blog Post](https://darryl-ruggles.cloud/a-complete-terraform-setup-for-eks-auto-mode-is-it-right-for-you)
 
 ## Author
 
